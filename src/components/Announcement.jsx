@@ -14,7 +14,7 @@ font-weight: 500;
 const Announcement = () => {
     return (
         <Container>
-            Super Deal! Free Shipping on Orders Over Rs.2000
+            Super Deal! Free Shipping on Orders Over Rs.20000
         </Container>
     )
 }
