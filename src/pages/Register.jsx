@@ -7,7 +7,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://wallpapercave.com/wp/wp1890323.jpg") center;
+    url("https://wallpapercave.com/wp/wp1890322.jpg") center;
   background-size: cover;
   display: flex;
   align-items: center;
